@@ -1,2 +1,2 @@
 # filePlayer1
-works like spotofy but uses youtube video links
+works like spotify but uses youtube video links
